@@ -1,0 +1,51 @@
+body {
+    margin: 50px;
+
+}
+
+h1 {
+    text-align: center;
+    margin: 30px;
+}
+
+.upper {
+    /* height: 50px;
+    width: 400px; */
+    background-color: rgb(49, 158, 87);
+    margin: 15px;
+   
+}
+
+.upper span {
+    display: inline-block;
+    /* height: 30px;
+    width: 30%;
+    */
+    margin-left: 30px;
+    padding: 5px;
+    height: 30px;
+    width: 150;
+    text-align: center;
+    text-decoration-color: azure;
+    
+}
+
+table {
+    margin: 0 auto;
+    color: #333;
+    background: white;
+    border: 1px solid grey;
+    font-size: 12pt;
+    border-collapse: collapse;
+}
+
+td {
+    padding: .5em;
+    border: 2px solid rgb(41, 97, 70);
+    height: 50px;
+    width: 50px;
+}
+
+td:hover {
+    color: rgb(190, 237, 226);
+  }
